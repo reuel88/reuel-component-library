@@ -1,0 +1,11 @@
+@tailwind base;
+
+.rot-button {
+  line-height: 1.15;
+}
+
+
+@tailwind components;
+@tailwind utilities;
+
+
